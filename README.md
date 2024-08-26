@@ -4,7 +4,6 @@ This repository contains a machine learning project aimed at predicting future s
 
 ## Project Structure
 
-- **.gitattributes**: This file is used to manage text file normalization across different platforms.
 - **app.py**: A Streamlit application file that allows users to input feature values and get sales predictions in real-time.
 - **predict-future-sales-with-xg-boost.ipynb**: A Jupyter Notebook that contains the complete process of data exploration, feature engineering, model training, and evaluation.
 - **xgboost.pickle.dat**: A serialized XGBoost model saved as a pickle file.
